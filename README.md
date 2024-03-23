@@ -11,6 +11,7 @@ Aplicativo móvel para registro de pomodoros.
 
 ## Integrantes
 - Ana Carolina do Carmo Vaz
+- Francisco Costa Ribeiro
 - -Lucas Damasceno Pinto
 - Jefferson Rodrigues Lacerda
 - Ricardo Peixoto da Silva
